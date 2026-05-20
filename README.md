@@ -2,6 +2,10 @@
 
 ## Overview
 This project explores the **Attention Economy**, where digital platforms compete for users’ limited time and attention. The study investigates whether digital triggers, such as notifications and alerts, encourage users to remain online longer than intended.
+##About Dataset
+This dataset captures the delicate relationship between social media habits and mental well-being. It combines variables such as screen time, stress level, sleep quality, digital detox days, and happiness index. Ideal for regression, correlation, or mental health prediction tasks.
+
+Researchers, psychologists, and data enthusiasts can use this dataset to study how lifestyle and online activity patterns affect human emotions and overall wellness.
 
 ## Objective
 The main goal is to identify the point where productive app usage changes into **mindless scrolling** or passive consumption through statistical analysis.
